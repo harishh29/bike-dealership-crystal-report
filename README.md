@@ -18,14 +18,27 @@ After the database has been created and each table are given their primary key, 
 
 ![bikedealerdigram](https://github.com/harishh29/bike-dealership-crystal-report/assets/76155776/7516f1a8-d877-4b66-9a35-c174d4876091)
 
-## Report Screenshot
+## DATABASE
+For demonstration purposes, we created a mock up database and insert the values manually. To save time you can open the SQL file
+and just run the query. Though, there might be some editing needed on your end.
+
+![image](https://github.com/harishh29/bike-dealership-crystal-report/assets/76155776/99399e52-ed27-4e3d-82c4-c14eeb4b9673)
+
+
+## REPORTING
 
 ### Bike Brand and Model Report
+The first report quering all motorcycle brand available in the dealership and their respective model.
 ![image](https://github.com/harishh29/bike-dealership-crystal-report/assets/76155776/d2e55395-341e-4963-ae52-fa4c6fd64730)
 
 [bikemodelreport.pdf](https://github.com/harishh29/bike-dealership-crystal-report/files/14552929/bikemodelreport.pdf)
 
 ### Salesman Report
+The second report focuses on sales made by salesman. This is good for manager to monitor whether their employee reach their KPI, or commission claim.
 ![image](https://github.com/harishh29/bike-dealership-crystal-report/assets/76155776/17ed82a9-b2ae-4a8a-b195-c6d8718c4cd6)
 
 [salesreport.pdf](https://github.com/harishh29/bike-dealership-crystal-report/files/14552946/salesreport.pdf)
+
+## CONCLUSION
+In my opinion, the SAP Crystal Report is very user-friendly especially in designing. For those who already have decent skill in SQL, this tools may not possess
+a significant challenge compared to other tools, such as DAX in Power BI. Though, I have to highlight that it is very outdated and doesn't produce an outstanding visualization compared to its competitors.

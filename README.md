@@ -20,5 +20,12 @@ After the database has been created and each table are given their primary key, 
 
 ## Report Screenshot
 
-### Bike brand and their model
+### Bike Brand and Model Report
+![image](https://github.com/harishh29/bike-dealership-crystal-report/assets/76155776/d2e55395-341e-4963-ae52-fa4c6fd64730)
+
 [bikemodelreport.pdf](https://github.com/harishh29/bike-dealership-crystal-report/files/14552929/bikemodelreport.pdf)
+
+### Salesman Report
+![image](https://github.com/harishh29/bike-dealership-crystal-report/assets/76155776/17ed82a9-b2ae-4a8a-b195-c6d8718c4cd6)
+
+[salesreport.pdf](https://github.com/harishh29/bike-dealership-crystal-report/files/14552946/salesreport.pdf)

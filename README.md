@@ -1,4 +1,4 @@
-# BIKE-DEALERSHIP-CRYSTAL-REPORT
+# BIKE-TRANSACTION-CRYSTAL-REPORT
 ## INTRODUCTION
 This is a project as introduction to SAP Crystal Report for myself and those who are interested. The process involves from creating a database all the way to report creation.
 

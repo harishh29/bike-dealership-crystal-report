@@ -30,14 +30,16 @@ and just run the query. Though, there might be some editing needed on your end.
 ### Bike Brand and Model Report
 The first report quering all motorcycle brand available in the dealership and their respective model.
 ![image](https://github.com/harishh29/bike-dealership-crystal-report/assets/76155776/d2e55395-341e-4963-ae52-fa4c6fd64730)
+[bikemodelreport.pdf](https://github.com/harishh29/bike-transaction-crystal-report/files/14562775/bikemodelreport.pdf)
 
-[bikemodelreport.pdf](https://github.com/harishh29/bike-dealership-crystal-report/files/14552929/bikemodelreport.pdf)
+
 
 ### Salesman Report
 The second report focuses on sales made by salesman. This is good for manager to monitor whether their employee reach their KPI, or commission claim.
 ![image](https://github.com/harishh29/bike-dealership-crystal-report/assets/76155776/17ed82a9-b2ae-4a8a-b195-c6d8718c4cd6)
 
-[salesreport.pdf](https://github.com/harishh29/bike-dealership-crystal-report/files/14552946/salesreport.pdf)
+[salesreport.pdf](https://github.com/harishh29/bike-transaction-crystal-report/files/14562769/salesreport.pdf)
+
 
 ## CONCLUSION
 In my opinion, the SAP Crystal Report is very user-friendly especially in designing. For those who already have decent skill in SQL, this tools may not possess

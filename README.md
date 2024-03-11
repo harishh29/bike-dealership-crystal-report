@@ -41,4 +41,4 @@ The second report focuses on sales made by salesman. This is good for manager to
 
 ## CONCLUSION
 In my opinion, the SAP Crystal Report is very user-friendly especially in designing. For those who already have decent skill in SQL, this tools may not possess
-a significant challenge compared to other tools, such as DAX in Power BI. Though, I have to highlight that it is very outdated and doesn't produce an outstanding visualization compared to its competitors.
+a significant challenge compared to other tools, such as DAX in Power BI.
